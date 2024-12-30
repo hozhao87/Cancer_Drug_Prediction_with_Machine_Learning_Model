@@ -22,9 +22,9 @@
 
 Briefly explain:
 - PCA reducing dimensions 
-- Visulizing cancer cell amount in each sub cancer type.
-- Transcription enrichment in different pathways.
-- Gene transcription level in single cells and amount cancer subtypes.
+- Feature Engineering and scaling
+- Exploratory Data Analysis (EDA)
+- Machine Learning model for drug response prediction
 
 ---
 
@@ -36,9 +36,9 @@ Step-by-step instructions to get a local copy running.
 
 List tools and dependencies needed:
 - Python 3.10+
-- pip install scanpy
+- pip install scanpy, biopython
 - PCA
-- umap
+- machine learning
 
 ### Installation
 
