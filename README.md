@@ -21,9 +21,10 @@
 ## About the Project
 
 Briefly explain:
-- PCA reducing dimensions 
+
 - Feature Engineering and scaling
 - Exploratory Data Analysis (EDA)
+- PCA reducing dimensions 
 - Machine Learning model for drug response prediction
 
 ---
@@ -36,9 +37,9 @@ Step-by-step instructions to get a local copy running.
 
 List tools and dependencies needed:
 - Python 3.10+
-- pip install scanpy, biopython
+- pip install scanpy, biopython, requests
 - PCA
-- machine learning
+- Machine learning
 
 ### Installation
 
@@ -53,9 +54,11 @@ cd repo
 # Install dependencies
 
 ```
-### Load the file and Handling Missing values
-
+### Loading, validating genn name, Log Transformation, Saling and Handling Missing values
+### Feature Engineering 
 ### Data Visualization
+### PCA
+### Machine Learning
 
 ## Contributing
 
