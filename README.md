@@ -1,5 +1,5 @@
 # Cancer_Drug_Prediction
- A machine learning and deep learning project for RNA seq data anaysis and drug response prediction
+ A machine learning and deep learning project for RNA seq data anaysis and drug response prediction.
  Data was refered to datasets accompanies the ENLIGHT article listed below[1], RNA-seq data from different files are merged and name of geens have been fetched to the  NCBI Gene database, patients responses to drug are matched. 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
